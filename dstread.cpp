@@ -1,3 +1,7 @@
+/* This program reads the dst IAGA format and stores it in root file for plotting the data
+To compile this program "g++ filename -o name `root-config --glibs --cflags"
+*/
+
 #include<iostream>
 #include<fstream>
 #include<cstdlib>
